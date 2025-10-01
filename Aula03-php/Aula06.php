@@ -17,4 +17,4 @@
            echo"Agora B é igual a $b.";
            echo"<br><br>";
            $b-=5;
-           echo"Agora B é igual a $b.";
+           echo"Agora B é igual a $b. <br>";
