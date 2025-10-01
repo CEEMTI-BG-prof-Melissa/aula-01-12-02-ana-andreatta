@@ -13,7 +13,7 @@
             echo "<br> O número $n2 <sup>$n1</sup> é igual a ".pow($n2, $n1);
             echo "<br> A raiz quadrada de $n2 é igual a " .sqrt($n2);
 
-            echo "<br O número $n2 arredondado de $n2 é  igual " .round($n2);
+            echo "<br><br> O número $n2 arredondado de $n2 é  igual " .round($n2);
             echo "<br><br> O número $n2 arredondado pra cima é igual a " .ceil($n2);
             echo "<br><br> O número $n2 arredondado pra baixo é igual a " .floor($n2);
 
